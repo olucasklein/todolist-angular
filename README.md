@@ -18,5 +18,16 @@
 - Botão de Check e Remove Task
 - Salvar em local-storage
 
+<h2>🚀 O que foi estudado: </h2>
+
+- Templates e Variáveis
+- Loop
+- Classes
+- Condicionais
+- Bind de Propriedades
+- Styles e Class
+- Eventos de Clique e Teclado
+- Variável Auxiliar
+
 <h2>📝 Licença</h2>
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
